@@ -1,0 +1,6 @@
+Solution is unique 
+x3 is equal to: 600.0
+s2 is equal to: 600.0
+s3 is equal to: 300.0
+The rest of the variables are equal to: 0 
+Solution (z) is equal to: 180001.0

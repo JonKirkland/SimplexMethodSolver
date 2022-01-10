@@ -1,0 +1,12 @@
+Please input the objective function into the line below (no spaces):
+z=60x1+90x2+300x3
+Please indicate if the above function is a maximum or minimum (please write maximum or minimum below):
+maximum
+Please indicate how many constraints are present in the line below:
+3
+Please indicate the number of x variables in the constraints:
+3
+Please input the constraints into the line below (no spaces):
+x1+x2+x3<= 600
+x1+3x2<= 600
+2x1+x3<= 900
